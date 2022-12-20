@@ -1,2 +1,2 @@
 # college4u
-Android Application developed my Nrala
+Android Application developed my Nirala
